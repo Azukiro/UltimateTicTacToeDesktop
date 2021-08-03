@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6rv1VJM+1SH1YGoSd89A6hYJBD2Gfqm5c9/C0TlSZcjN7Z1I8NinR9j5cz9ZF8pvKCB81zuR2SjqtdoxcO8lQ==",
+  "success": true,
+  "projectFilePath": "D:\\Document\\Project\\UltimateTicTacToeDesktop\\UltimateTicTacToeDesktop.WinUI3 (Package)\\UltimateTicTacToeDesktop.WinUI3 (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azuki\\.nuget\\packages\\microsoft.projectreunion\\0.5.6\\microsoft.projectreunion.0.5.6.nupkg.sha512",
+    "C:\\Users\\Azuki\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.5.6\\microsoft.projectreunion.dwrite.0.5.6.nupkg.sha512",
+    "C:\\Users\\Azuki\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.5.6\\microsoft.projectreunion.foundation.0.5.6.nupkg.sha512",
+    "C:\\Users\\Azuki\\.nuget\\packages\\microsoft.projectreunion.winui\\0.5.6\\microsoft.projectreunion.winui.0.5.6.nupkg.sha512"
+  ],
+  "logs": []
+}

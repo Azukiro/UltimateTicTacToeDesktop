@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/k0jeq0/vUOEY5DR7IrfE8y2GT/hKyA4t8ONKj6qiye750ZQFWn5ER5GwubSP8tJ/cegMTs1YU4z3sNUwS/pg==",
+  "success": false,
+  "projectFilePath": "D:\\Document\\Project\\UltimateTicTacToeDesktop\\UltimateTicTacToeDesktop\\UltimateTicTacToeDesktop.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "La version de la plateforme n'est pas présente pour un ou plusieurs frameworks cibles, même s'ils ont spécifié une plateforme : net6.0-ios, net6.0-android, net6.0-maccatalyst"
+    }
+  ]
+}
